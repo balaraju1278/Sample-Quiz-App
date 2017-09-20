@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuestionBank</string>
+    <string name="q1">Delhi is in India</string>
+    <string name="q2">Goa is not in India</string>
+    <string name="q3">China is in India</string>
+    <string name="q4">Goa is in India</string>
+    <string name="q5">Delhi is in India</string>
+    <string name="q6">NCR is in India</string>
+    <string name="q7">Nepal is in India</string>
+    <string name="q8">panjab is in India</string>
+    <string name="q9">America is in India</string>
+    <string name="q10">Patna is in India</string>
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+    <string name="Next_qustn">Next</string>
+    <string name="Prev_qustn">Prev</string>
+</resources>
